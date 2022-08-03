@@ -63,3 +63,114 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2022-08-03 07:23:13.065
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:18.406
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:18.407
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@5650a0a9[org.springframework.tooling.boot.ls:1.32.0.202203131529(id=998)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:18.411
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:18.513
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:22.873
+!MESSAGE Boot LS startup time from start to initialized: 4455ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.119
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eqBLpOCnisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.122
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.125
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.125
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.125
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eqBLpOCn => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.127
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.130
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.131
+!MESSAGE buffering callback sts4.classpath.eqBLpOCn desafio-dio-poo false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.131
+!MESSAGE executing callback sts4.classpath.eqBLpOCn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:43:23.449
+!MESSAGE executing callback sts4.classpath.eqBLpOCn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:44:42.385
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eqBLpOCn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:44:42.386
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.eqBLpOCn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:44:42.386
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:44:42.386
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eqBLpOCn => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:27.857
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:27.858
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@5650a0a9[org.springframework.tooling.boot.ls:1.32.0.202203131529(id=998)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:27.858
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.835
+!MESSAGE Boot LS startup time from start to initialized: 1975ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.927
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.SiywhZUKisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.928
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.928
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.928
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.929
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.929
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.SiywhZUK => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.930
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.930
+!MESSAGE buffering callback sts4.classpath.SiywhZUK desafio-dio-poo false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:29.930
+!MESSAGE executing callback sts4.classpath.SiywhZUK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 07:45:30.156
+!MESSAGE executing callback sts4.classpath.SiywhZUK SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-08-03 08:02:01.810
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)

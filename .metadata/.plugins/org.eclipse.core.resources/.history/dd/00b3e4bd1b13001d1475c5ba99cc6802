@@ -1,0 +1,16 @@
+package br.com.poo.dio.desafio.dominio;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Curso curso1 = new Curso();
+		curso1.setTitulo("Curso JAVA");
+		curso1.setDescricao("Descricao do Curso");
+		curso1.setCargaHoraria(50);
+		
+		System.out.println(curso1);
+
+	}
+
+}
