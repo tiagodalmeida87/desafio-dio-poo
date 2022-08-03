@@ -1,31 +1,24 @@
-# DIO | Java Developer
-
-O Bootcamp Cognizant Java Developer foi pensado exclusivamente para o seu desenvolvimento na tecnologia de Java, contendo uma sequência completa de cursos, mentorias e desafios.
-
-![image](https://github.com/tiagodalmeida87/dio-java-developer/blob/main/img/Cognizant%20Java.jpg)
-
+# DIO | Desafio de POO - Programação Orientada a Objetos
 
 ---
 ## Aprendizagem e Desafios 👊
 
-  - [Desafio - GitHub](https://github.com/tiagodalmeida87/dio-java-developer/tree/main/Desafio%20GitHub)
-  - [Aula - Dominado IDEs Java](https://github.com/tiagodalmeida87/dio-java-developer/tree/main/primeiro-programa-java)
+Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo.
 
----
-## Certificados 📝
 
-  - [Estrutura de Dados e Algoritmos](https://github.com/tiagodalmeida87/dio-java-developer/tree/main/img/Certificados)
-  - [Dominando IDEs Java](https://github.com/tiagodalmeida87/dio-java-developer/blob/main/img/Certificados/Dominando%20IDEs%20Java.jpg)
+  - [Desafio em POO Java]()
+  
+
 
 ---
 ## Agradecimentos 👏
 
-##### [Cognizant](https://www.cognizant.com/us/en)
-![image](https://github.com/tiagodalmeida87/dio-java-developer/blob/main/img/cognizant_imagem.jpg)
-
 ###### [DIO - Digital Innovation One](https://digitalinnovation.one/)
 ![image](https://github.com/tiagodalmeida87/dio-java-developer/blob/main/img/dio2_imagem.jpg)
 
+
+e a instrutora [Camila Cavalcante](https://github.com/cami-la)
+
 ---
 
-Feito por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑‍💻
+Feito com ❤️ por [Tiago Almeida](https://www.linkedin.com/in/tiagodalmeida87/) 🧑‍💻
