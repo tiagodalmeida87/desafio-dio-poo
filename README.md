@@ -6,7 +6,7 @@
 Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo.
 
 
-  - [Desafio em POO Java](https://raw.githubusercontent.com/tiagodalmeida87/desafio-dio-poo/main/desafio-dio-poo/src/img/console_prog.jpg)
+  - [Desafio em POO Java](https://github.com/tiagodalmeida87/desafio-dio-poo/blob/main/desafio-dio-poo/src/img/console_prog.jpg)
   
 
 
