@@ -1,0 +1,13 @@
+package br.com.poo.dio.desafio.dominio;
+
+import java.time.LocalDate;
+
+public class Bootcamp {
+
+	private String nome;
+	private String descricao;
+	private LocalDate dataInicial = LocalDate.now();
+	private final LocalDate dataFinal = dataInicial.plusDays(45);
+	
+	
+}
