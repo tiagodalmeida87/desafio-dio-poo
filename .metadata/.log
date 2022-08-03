@@ -186,3 +186,45 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:16:30.525
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SiywhZUK => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:11.799
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:11.799
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@5650a0a9[org.springframework.tooling.boot.ls:1.32.0.202203131529(id=998)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:11.799
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.431
+!MESSAGE Boot LS startup time from start to initialized: 1629ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.519
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GcHNnTiJisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.520
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.520
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.520
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.521
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.521
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GcHNnTiJ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.522
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.522
+!MESSAGE buffering callback sts4.classpath.GcHNnTiJ desafio-dio-poo false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.522
+!MESSAGE executing callback sts4.classpath.GcHNnTiJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 09:18:13.759
+!MESSAGE executing callback sts4.classpath.GcHNnTiJ SUCCESS [done]

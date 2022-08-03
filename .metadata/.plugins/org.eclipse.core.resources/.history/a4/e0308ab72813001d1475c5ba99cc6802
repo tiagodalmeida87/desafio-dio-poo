@@ -35,7 +35,7 @@ public class Main {
 		Dev devTiago = new Dev();
 		devTiago.setNome("Tiago");
 		devTiago.inscreverBootcamp(bootcamp);
-		System.out.println("Bootcamp: " + bootcamp.getNome());
+		System.out.println("Bootcamp: " + devTiago.setNome(bootcamp.getNome()));
 		System.out.println("Conteúdos Inscritos Tiago: " + devTiago.getConteudosInscritos());
 		devTiago.progredir();
 		devTiago.progredir();
